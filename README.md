@@ -1189,7 +1189,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 ✅  **Instead use**
 #### Web
 - [miniPaint](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
-- [PNG Share Check](https://github.com/LydiaTools/png-share-check) - MIT-licensed browser tool to inspect supported Excalidraw scene text and remove PNG text/EXIF metadata without re-encoding image data; offline-capable early preview.
+- [PNG Share Check](https://github.com/LydiaTools/png-share-check) - Browser-local tool to inspect supported Excalidraw scene text and remove PNG text metadata, with optional EXIF removal (MIT, offline-capable early preview).
 
 #### Desktop
 - [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
